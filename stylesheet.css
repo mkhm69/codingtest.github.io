@@ -70,6 +70,7 @@ li {
 }
 .container {
     width: 1000px;
+    margin:0 auto;
 }
 .trouble-icon {
     width: 153px;
